@@ -5,7 +5,7 @@
 ### TABLAS:
 
 |columna 1|columna 2|
-|=========|=========|
+|:-------:|:-------:|
 |Archivo1 |.exe     |
 |Archivo2 |.pdf     |
 |Archivo3 |.odt     |
@@ -35,6 +35,7 @@ Palabras resaltada en **_negrita y cursiva_**
 ### IMAGENES (INTERNET Y EN LOCAL): 
 
 ![Imagen de una vela INTERNET](https://pixabay.com/es/photos/luz-de-una-vela-vela-fuego-8785366/)
+
 
 ![Imagen de un vela LOCAL](./img/vela.jpg)
 
